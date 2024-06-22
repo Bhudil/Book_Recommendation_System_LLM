@@ -3,7 +3,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain import PromptTemplate, LLMChain
 
 # Set up ChatGoogleGenerativeAI to consume API
-api_key = 'AIzaSyC5dV1syhIrlDf8SZT61apFkeDq0iOvN1I'  # Replace with your actual API key
+api_key = 'YOUR_GOOGLE_API'  # Replace with your actual API key
 llm = ChatGoogleGenerativeAI(model='gemini-pro', google_api_key=api_key)
 
 # Define Prompt Templates
