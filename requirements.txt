@@ -8,7 +8,6 @@ google-generativeai==0.5.4
 google-pasta==0.2.0
 googleapis-common-protos==1.62.0
 langchain==0.1.17
-langchain-community==0.2.10
 langchain-core==0.1.50
 langchain-experimental==0.0.57
 langchain-google-genai==1.0.6
